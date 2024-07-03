@@ -20,8 +20,3 @@ Here is a brief description of each script:
 3. **reemplazo.py:** This script performs the replacement operation based on the frequency of words.
 4. **tabulacion_cambios.py:** This script creates a table of replacements in a separate file.
 5. **leer_tabulacion_cambios.py:** This script reads the table of replacements.
-
-## Usage
-
-To run the scripts, navigate to the folder containing the scripts through your console or terminal. Once you're in the correct directory, type the following commands in the console or terminal:
-
